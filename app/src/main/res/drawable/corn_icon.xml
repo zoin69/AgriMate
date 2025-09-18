@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    
+    <!-- Corn stalk -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M24,40 L24,20" />
+    
+    <!-- Corn leaves -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M24,25 Q18,22 15,25 Q18,28 24,25 Q30,28 33,25 Q30,22 24,25" />
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M24,30 Q18,27 15,30 Q18,33 24,30 Q30,33 33,30 Q30,27 24,30" />
+    
+    <!-- Corn cob -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M20,15 A4,8 0 1,1 28,15 A4,8 0 1,1 20,15 Z" />
+    
+    <!-- Corn kernels -->
+    <path
+        android:fillColor="#F9A825"
+        android:pathData="M22,12 A1,1 0 1,1 24,12 A1,1 0 1,1 22,12 Z" />
+    <path
+        android:fillColor="#F9A825"
+        android:pathData="M24,10 A1,1 0 1,1 26,10 A1,1 0 1,1 24,10 Z" />
+    <path
+        android:fillColor="#F9A825"
+        android:pathData="M24,14 A1,1 0 1,1 26,14 A1,1 0 1,1 24,14 Z" />
+    <path
+        android:fillColor="#F9A825"
+        android:pathData="M24,18 A1,1 0 1,1 26,18 A1,1 0 1,1 24,18 Z" />
+</vector>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    
+    <!-- Potato plant stems -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M40,100 L40,70 M60,100 L60,75 M80,100 L80,72" />
+    
+    <!-- Potato leaves -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M40,70 Q30,65 25,75 Q30,80 40,75 Q50,80 55,75 Q50,65 40,70" />
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M40,60 Q30,55 25,65 Q30,70 40,65 Q50,70 55,65 Q50,55 40,60" />
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M60,75 Q50,70 45,80 Q50,85 60,80 Q70,85 75,80 Q70,70 60,75" />
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M60,65 Q50,60 45,70 Q50,75 60,70 Q70,75 75,70 Q70,60 60,65" />
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M80,72 Q70,67 65,77 Q70,82 80,77 Q90,82 95,77 Q90,67 80,72" />
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M80,62 Q70,57 65,67 Q70,72 80,67 Q90,72 95,67 Q90,57 80,62" />
+    
+    <!-- Potato tubers underground - converted from ellipses to paths -->
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M32,99 A8,6 0 1,1 48,99 A8,6 0 1,1 32,99 Z" />
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M50,101 A10,7 0 1,1 70,101 A10,7 0 1,1 50,101 Z" />
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M71,100 A9,6 0 1,1 89,100 A9,6 0 1,1 71,100 Z" />
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M44,106 A6,4 0 1,1 56,106 A6,4 0 1,1 44,106 Z" />
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M63,108 A7,5 0 1,1 77,108 A7,5 0 1,1 63,108 Z" />
+    
+    <!-- Soil surface -->
+    <path
+        android:fillColor="#795548"
+        android:pathData="M0,100 L120,100 L120,110 L0,110 Z" />
+    
+    <!-- Potato flowers - converted from circles to paths -->
+    <path
+        android:fillColor="#E91E63"
+        android:pathData="M37,52 A3,3 0 1,1 43,52 A3,3 0 1,1 37,52 Z" />
+    <path
+        android:fillColor="#E91E63"
+        android:pathData="M57,57 A3,3 0 1,1 63,57 A3,3 0 1,1 57,57 Z" />
+    <path
+        android:fillColor="#E91E63"
+        android:pathData="M77,54 A3,3 0 1,1 83,54 A3,3 0 1,1 77,54 Z" />
+    
+    <!-- Flower centers - converted from circles to paths -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M39,52 A1,1 0 1,1 41,52 A1,1 0 1,1 39,52 Z" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M59,57 A1,1 0 1,1 61,57 A1,1 0 1,1 59,57 Z" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M79,54 A1,1 0 1,1 81,54 A1,1 0 1,1 79,54 Z" />
+</vector>

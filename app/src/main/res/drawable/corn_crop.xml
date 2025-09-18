@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    
+    <!-- Corn stalks -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M30,100 L30,40 M50,100 L50,45 M70,100 L70,50 M90,100 L90,42" />
+    
+    <!-- Corn leaves -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M30,60 Q20,55 15,65 Q20,70 30,65 Q40,70 45,65 Q40,55 30,60" />
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M30,50 Q20,45 15,55 Q20,60 30,55 Q40,60 45,55 Q40,45 30,50" />
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M50,55 Q40,50 35,60 Q40,65 50,60 Q60,65 65,60 Q60,50 50,55" />
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M50,45 Q40,40 35,50 Q40,55 50,50 Q60,55 65,50 Q60,40 50,45" />
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M70,60 Q60,55 55,65 Q60,70 70,65 Q80,70 85,65 Q80,55 70,60" />
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M70,50 Q60,45 55,55 Q60,60 70,55 Q80,60 85,55 Q80,45 70,50" />
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M90,55 Q80,50 75,60 Q80,65 90,60 Q100,65 105,60 Q100,50 90,55" />
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M90,45 Q80,40 75,50 Q80,55 90,50 Q100,55 105,50 Q100,40 90,45" />
+    
+    <!-- Corn cobs - converted from ellipses to paths -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M24,23 A6,12 0 1,1 36,23 A6,12 0 1,1 24,23 Z" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M44,28 A6,12 0 1,1 56,28 A6,12 0 1,1 44,28 Z" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M64,23 A6,12 0 1,1 76,23 A6,12 0 1,1 64,23 Z" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M84,26 A6,12 0 1,1 96,26 A6,12 0 1,1 84,26 Z" />
+    
+    <!-- Corn kernels -->
+    <path
+        android:fillColor="#F9A825"
+        android:pathData="M29,23 A1,1 0 1,1 31,23 A1,1 0 1,1 29,23 Z" />
+    <path
+        android:fillColor="#F9A825"
+        android:pathData="M29,18 A1,1 0 1,1 31,18 A1,1 0 1,1 29,18 Z" />
+    <path
+        android:fillColor="#F9A825"
+        android:pathData="M29,28 A1,1 0 1,1 31,28 A1,1 0 1,1 29,28 Z" />
+    <path
+        android:fillColor="#F9A825"
+        android:pathData="M49,28 A1,1 0 1,1 51,28 A1,1 0 1,1 49,28 Z" />
+    <path
+        android:fillColor="#F9A825"
+        android:pathData="M49,23 A1,1 0 1,1 51,23 A1,1 0 1,1 49,23 Z" />
+    <path
+        android:fillColor="#F9A825"
+        android:pathData="M49,33 A1,1 0 1,1 51,33 A1,1 0 1,1 49,33 Z" />
+    <path
+        android:fillColor="#F9A825"
+        android:pathData="M69,23 A1,1 0 1,1 71,23 A1,1 0 1,1 69,23 Z" />
+    <path
+        android:fillColor="#F9A825"
+        android:pathData="M69,18 A1,1 0 1,1 71,18 A1,1 0 1,1 69,18 Z" />
+    <path
+        android:fillColor="#F9A825"
+        android:pathData="M69,28 A1,1 0 1,1 71,28 A1,1 0 1,1 69,28 Z" />
+    <path
+        android:fillColor="#F9A825"
+        android:pathData="M89,26 A1,1 0 1,1 91,26 A1,1 0 1,1 89,26 Z" />
+    <path
+        android:fillColor="#F9A825"
+        android:pathData="M89,21 A1,1 0 1,1 91,21 A1,1 0 1,1 89,21 Z" />
+    <path
+        android:fillColor="#F9A825"
+        android:pathData="M89,31 A1,1 0 1,1 91,31 A1,1 0 1,1 89,31 Z" />
+</vector>

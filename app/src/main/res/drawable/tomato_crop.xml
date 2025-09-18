@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    
+    <!-- Tomato plant stem -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M60,100 L60,60" />
+    
+    <!-- Tomato leaves -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M60,70 Q50,65 45,75 Q50,80 60,75 Q70,80 75,75 Q70,65 60,70" />
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M60,60 Q50,55 45,65 Q50,70 60,65 Q70,70 75,65 Q70,55 60,60" />
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M60,50 Q50,45 45,55 Q50,60 60,55 Q70,60 75,55 Q70,45 60,50" />
+    
+    <!-- Tomato fruits - converted from circles to paths -->
+    <path
+        android:fillColor="#F44336"
+        android:pathData="M37,32 A8,8 0 1,1 53,32 A8,8 0 1,1 37,32 Z" />
+    <path
+        android:fillColor="#F44336"
+        android:pathData="M52,22 A8,8 0 1,1 68,22 A8,8 0 1,1 52,22 Z" />
+    <path
+        android:fillColor="#F44336"
+        android:pathData="M52,22 A8,8 0 1,1 68,22 A8,8 0 1,1 52,22 Z" />
+    <path
+        android:fillColor="#F44336"
+        android:pathData="M44,19 A6,6 0 1,1 56,19 A6,6 0 1,1 44,19 Z" />
+    <path
+        android:fillColor="#F44336"
+        android:pathData="M64,14 A6,6 0 1,1 76,14 A6,6 0 1,1 64,14 Z" />
+    
+    <!-- Tomato highlights - converted from circles to paths -->
+    <path
+        android:fillColor="#FFCDD2"
+        android:pathData="M45,35 A2,2 0 1,1 49,35 A2,2 0 1,1 45,35 Z" />
+    <path
+        android:fillColor="#FFCDD2"
+        android:pathData="M75,30 A2,2 0 1,1 79,30 A2,2 0 1,1 75,30 Z" />
+    <path
+        android:fillColor="#FFCDD2"
+        android:pathData="M60,25 A2,2 0 1,1 64,25 A2,2 0 1,1 60,25 Z" />
+    
+    <!-- Pot/container -->
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M50,100 L70,100 L68,110 L52,110 Z" />
+</vector>

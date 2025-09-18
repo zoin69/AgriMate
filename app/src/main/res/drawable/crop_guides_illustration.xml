@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    
+    <!-- Book background -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M20,20 L100,20 L100,100 L20,100 Z" />
+    
+    <!-- Book pages -->
+    <path
+        android:fillColor="#F8F9FA"
+        android:pathData="M25,25 L95,25 L95,95 L25,95 Z" />
+    
+    <!-- Book spine -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M20,20 L25,20 L25,100 L20,100 Z" />
+    
+    <!-- Book binding -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M20,20 L25,20 L25,100 L20,100 Z" />
+    
+    <!-- Page lines -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M30,35 L85,35 M30,45 L85,45 M30,55 L85,55 M30,65 L85,65 M30,75 L85,75 M30,85 L85,85" />
+    
+    <!-- Crop illustrations on pages -->
+    <!-- Corn plant -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M35,30 L35,45" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M32,30 A3,6 0 1,1 38,30 A3,6 0 1,1 32,30 Z" />
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M35,35 Q30,32 25,35 Q30,38 35,35 Q40,38 45,35 Q40,32 35,35" />
+    
+    <!-- Tomato plant -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M50,30 L50,45" />
+    <path
+        android:fillColor="#F44336"
+        android:pathData="M47,35 A3,3 0 1,1 53,35 A3,3 0 1,1 47,35 Z" />
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M50,35 Q47,32 44,35" />
+    
+    <!-- Wheat plant -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M65,30 L65,45" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M62,30 Q65,25 68,30 Q65,35 62,30" />
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M65,35 Q60,32 55,35 Q60,38 65,35 Q70,38 75,35 Q70,32 65,35" />
+    
+    <!-- Rice plant -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M80,30 L80,45" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M77,30 Q80,25 83,30 Q80,35 77,30" />
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M80,35 Q75,32 70,35 Q75,38 80,35 Q85,38 90,35 Q85,32 80,35" />
+    
+    <!-- Book title -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M30,25 L80,25" />
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M30,28 L75,28" />
+    
+    <!-- Page numbers -->
+    <path
+        android:fillColor="#9E9E9E"
+        android:pathData="M75,90 L85,90" />
+    
+    <!-- Book shadow -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M25,100 L100,100 L95,105 L20,105 Z" />
+</vector>

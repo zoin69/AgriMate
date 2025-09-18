@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    
+    <!-- Wheat field background -->
+    <path
+        android:fillColor="#8BC34A"
+        android:pathData="M0,100 L120,100 L120,120 L0,120 Z" />
+    
+    <!-- Wheat stalks -->
+    <path
+        android:fillColor="#689F38"
+        android:pathData="M15,100 L15,60 M25,100 L25,65 M35,100 L35,70 M45,100 L45,55 M55,100 L55,75 M65,100 L65,60 M75,100 L75,70 M85,100 L85,65 M95,100 L95,60 M105,100 L105,75" />
+    
+    <!-- Wheat heads -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M10,60 Q15,50 20,60 Q25,50 30,60 Q35,50 40,60 Q45,50 50,60 Q55,50 60,60 Q65,50 70,60 Q75,50 80,60 Q85,50 90,60 Q95,50 100,60 Q105,50 110,60" />
+    
+    <!-- Wheat grains detail - converted from circles to paths -->
+    <path
+        android:fillColor="#F9A825"
+        android:pathData="M13.5,53.5 A1.5,1.5 0 1,1 16.5,53.5 A1.5,1.5 0 1,1 13.5,53.5 Z" />
+    <path
+        android:fillColor="#F9A825"
+        android:pathData="M23.5,58.5 A1.5,1.5 0 1,1 26.5,58.5 A1.5,1.5 0 1,1 23.5,58.5 Z" />
+    <path
+        android:fillColor="#F9A825"
+        android:pathData="M33.5,63.5 A1.5,1.5 0 1,1 36.5,63.5 A1.5,1.5 0 1,1 33.5,63.5 Z" />
+    <path
+        android:fillColor="#F9A825"
+        android:pathData="M43.5,48.5 A1.5,1.5 0 1,1 46.5,48.5 A1.5,1.5 0 1,1 43.5,48.5 Z" />
+    <path
+        android:fillColor="#F9A825"
+        android:pathData="M53.5,68.5 A1.5,1.5 0 1,1 56.5,68.5 A1.5,1.5 0 1,1 53.5,68.5 Z" />
+    <path
+        android:fillColor="#F9A825"
+        android:pathData="M63.5,58.5 A1.5,1.5 0 1,1 66.5,58.5 A1.5,1.5 0 1,1 63.5,58.5 Z" />
+    <path
+        android:fillColor="#F9A825"
+        android:pathData="M73.5,68.5 A1.5,1.5 0 1,1 76.5,68.5 A1.5,1.5 0 1,1 73.5,68.5 Z" />
+    <path
+        android:fillColor="#F9A825"
+        android:pathData="M83.5,63.5 A1.5,1.5 0 1,1 86.5,63.5 A1.5,1.5 0 1,1 83.5,63.5 Z" />
+    <path
+        android:fillColor="#F9A825"
+        android:pathData="M93.5,58.5 A1.5,1.5 0 1,1 96.5,58.5 A1.5,1.5 0 1,1 93.5,58.5 Z" />
+    <path
+        android:fillColor="#F9A825"
+        android:pathData="M103.5,68.5 A1.5,1.5 0 1,1 106.5,68.5 A1.5,1.5 0 1,1 103.5,68.5 Z" />
+</vector>

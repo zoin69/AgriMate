@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    
+    <!-- Potato plant stem -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M24,40 L24,25" />
+    
+    <!-- Potato leaves -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M24,30 Q20,27 18,30 Q20,33 24,30 Q28,33 30,30 Q28,27 24,30" />
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M24,25 Q20,22 18,25 Q20,28 24,25 Q28,28 30,25 Q28,22 24,25" />
+    
+    <!-- Potato tubers underground -->
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M20,35 A4,3 0 1,1 28,35 A4,3 0 1,1 20,35 Z" />
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M20,30 A3,2 0 1,1 26,30 A3,2 0 1,1 20,30 Z" />
+    
+    <!-- Soil surface -->
+    <path
+        android:fillColor="#795548"
+        android:pathData="M15,38 L33,38 L33,40 L15,40 Z" />
+    
+    <!-- Potato flowers -->
+    <path
+        android:fillColor="#E91E63"
+        android:pathData="M22,20 A2,2 0 1,1 26,20 A2,2 0 1,1 22,20 Z" />
+    <path
+        android:fillColor="#E91E63"
+        android:pathData="M22,15 A2,2 0 1,1 26,15 A2,2 0 1,1 22,15 Z" />
+    
+    <!-- Flower centers -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M23,20 A1,1 0 1,1 25,20 A1,1 0 1,1 23,20 Z" />
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M23,15 A1,1 0 1,1 25,15 A1,1 0 1,1 23,15 Z" />
+</vector>

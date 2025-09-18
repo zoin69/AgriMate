@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    
+    <!-- Tomato plant stem -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M24,40 L24,25" />
+    
+    <!-- Tomato leaves -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M24,30 Q20,27 18,30 Q20,33 24,30 Q28,33 30,30 Q28,27 24,30" />
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M24,25 Q20,22 18,25 Q20,28 24,25 Q28,28 30,25 Q28,22 24,25" />
+    
+    <!-- Tomato fruits -->
+    <path
+        android:fillColor="#F44336"
+        android:pathData="M20,20 A3,3 0 1,1 26,20 A3,3 0 1,1 20,20 Z" />
+    <path
+        android:fillColor="#F44336"
+        android:pathData="M20,15 A3,3 0 1,1 26,15 A3,3 0 1,1 20,15 Z" />
+    
+    <!-- Tomato highlights -->
+    <path
+        android:fillColor="#FFCDD2"
+        android:pathData="M21,19 A1,1 0 1,1 23,19 A1,1 0 1,1 21,19 Z" />
+    <path
+        android:fillColor="#FFCDD2"
+        android:pathData="M21,14 A1,1 0 1,1 23,14 A1,1 0 1,1 21,14 Z" />
+    
+    <!-- Tomato stems -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M20,17 Q18,15 16,17" />
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M20,12 Q18,10 16,12" />
+</vector>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    
+    <!-- Calendar background -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M15,15 L105,15 L105,105 L15,105 Z" />
+    
+    <!-- Calendar header -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M15,15 L105,15 L105,30 L15,30 Z" />
+    
+    <!-- Calendar grid lines -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M15,30 L105,30 M15,45 L105,45 M15,60 L105,60 M15,75 L105,75 M15,90 L105,90 M30,15 L30,105 M45,15 L45,105 M60,15 L60,105 M75,15 L75,105 M90,15 L90,105" />
+    
+    <!-- Calendar days header -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M20,20 L30,20 M35,20 L45,20 M50,20 L60,20 M65,20 L75,20 M80,20 L90,20 M95,20 L100,20" />
+    
+    <!-- Activity icons on calendar -->
+    <!-- Planting activity -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M37,52 A3,3 0 1,1 43,52 A3,3 0 1,1 37,52 Z" />
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M40,52 Q38,48 36,52 Q38,56 40,52 Q42,56 44,52 Q42,48 40,52" />
+    
+    <!-- Watering activity -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M52,52 Q50,48 48,52 Q50,56 52,52" />
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M50,48 Q49,46 48,48 Q49,50 50,48" />
+    
+    <!-- Harvesting activity -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M67,52 Q65,48 63,52 Q65,56 67,52" />
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M65,48 Q64,46 63,48 Q64,50 65,48" />
+    
+    <!-- Fertilizing activity -->
+    <path
+        android:fillColor="#8BC34A"
+        android:pathData="M37,67 A3,3 0 1,1 43,67 A3,3 0 1,1 37,67 Z" />
+    <path
+        android:fillColor="#689F38"
+        android:pathData="M40,67 Q38,63 36,67 Q38,71 40,67 Q42,71 44,67 Q42,63 40,67" />
+    
+    <!-- Maintenance activity -->
+    <path
+        android:fillColor="#607D8B"
+        android:pathData="M52,67 Q50,63 48,67 Q50,71 52,67" />
+    <path
+        android:fillColor="#607D8B"
+        android:pathData="M50,63 Q49,61 48,63 Q49,65 50,63" />
+    
+    <!-- Check marks for completed activities -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M38,50 L40,52 L42,50" />
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M51,50 L53,52 L55,50" />
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M66,50 L68,52 L70,50" />
+    
+    <!-- Calendar binding holes -->
+    <path
+        android:fillColor="#666666"
+        android:pathData="M25,8 A2,2 0 1,1 29,8 A2,2 0 1,1 25,8 Z" />
+    <path
+        android:fillColor="#666666"
+        android:pathData="M45,8 A2,2 0 1,1 49,8 A2,2 0 1,1 45,8 Z" />
+    <path
+        android:fillColor="#666666"
+        android:pathData="M65,8 A2,2 0 1,1 69,8 A2,2 0 1,1 65,8 Z" />
+    <path
+        android:fillColor="#666666"
+        android:pathData="M85,8 A2,2 0 1,1 89,8 A2,2 0 1,1 85,8 Z" />
+    
+    <!-- Calendar shadow -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M20,105 L105,105 L100,110 L15,110 Z" />
+</vector>

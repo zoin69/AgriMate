@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    
+    <!-- Background -->
+    <path
+        android:fillColor="#E3F2FD"
+        android:pathData="M0,0 L120,0 L120,120 L0,120 Z" />
+    
+    <!-- Activity icon (clipboard) -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M40,30 L80,30 L80,90 L40,90 Z" />
+    
+    <path
+        android:fillColor="#1976D2"
+        android:pathData="M45,25 L45,35 L75,35 L75,25 Z" />
+    
+    <!-- Lines on clipboard -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,45 L70,45 M50,55 L70,55 M50,65 L70,65 M50,75 L70,75" />
+    
+    <!-- Text -->
+    <path
+        android:fillColor="#2196F3"
+        android:pathData="M30,100 L90,100 M30,105 L90,105" />
+</vector>

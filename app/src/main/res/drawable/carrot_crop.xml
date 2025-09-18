@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    
+    <!-- Carrot tops/leaves -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M40,100 Q35,80 30,70 Q35,60 40,70 Q45,60 50,70 Q45,80 40,100" />
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M60,100 Q55,80 50,70 Q55,60 60,70 Q65,60 70,70 Q65,80 60,100" />
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M80,100 Q75,80 70,70 Q75,60 80,70 Q85,60 90,70 Q85,80 80,100" />
+    
+    <!-- Carrot roots -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M40,100 Q42,110 40,115 Q38,120 40,120 Q42,120 40,115 Q42,110 40,100" />
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M60,100 Q62,110 60,115 Q58,120 60,120 Q62,120 60,115 Q62,110 60,100" />
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M80,100 Q82,110 80,115 Q78,120 80,120 Q82,120 80,115 Q82,110 80,100" />
+    
+    <!-- Carrot root details -->
+    <path
+        android:fillColor="#F57C00"
+        android:pathData="M38,105 Q40,108 38,112" />
+    <path
+        android:fillColor="#F57C00"
+        android:pathData="M42,105 Q40,108 42,112" />
+    <path
+        android:fillColor="#F57C00"
+        android:pathData="M58,105 Q60,108 58,112" />
+    <path
+        android:fillColor="#F57C00"
+        android:pathData="M62,105 Q60,108 62,112" />
+    <path
+        android:fillColor="#F57C00"
+        android:pathData="M78,105 Q80,108 78,112" />
+    <path
+        android:fillColor="#F57C00"
+        android:pathData="M82,105 Q80,108 82,112" />
+    
+    <!-- Soil surface -->
+    <path
+        android:fillColor="#795548"
+        android:pathData="M0,100 L120,100 L120,120 L0,120 Z" />
+    
+    <!-- Small carrots - converted from ellipses to paths -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M17,106 A3,8 0 1,1 23,106 A3,8 0 1,1 17,106 Z" />
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M97,104 A3,8 0 1,1 103,104 A3,8 0 1,1 97,104 Z" />
+    
+    <!-- Carrot highlights -->
+    <path
+        android:fillColor="#FFE0B2"
+        android:pathData="M39,105 Q40,108 39,112" />
+    <path
+        android:fillColor="#FFE0B2"
+        android:pathData="M59,105 Q60,108 59,112" />
+    <path
+        android:fillColor="#FFE0B2"
+        android:pathData="M79,105 Q80,108 79,112" />
+</vector>

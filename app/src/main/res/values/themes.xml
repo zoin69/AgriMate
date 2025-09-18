@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Agrimate" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- 60% - Primary Green (Dominant) -->
+        <item name="colorPrimary">@color/primary_green</item>
+        <item name="colorPrimaryVariant">@color/primary_green_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <!-- 30% - Secondary Green (Supporting) -->
+        <item name="colorSecondary">@color/secondary_green</item>
+        <item name="colorSecondaryVariant">@color/accent_green</item>
+        <item name="colorOnSecondary">@color/text_dark</item>
+        
+        <!-- 10% - Accent Colors (Highlights) -->
+        <item name="colorTertiary">@color/accent_gold</item>
+        <item name="colorOnTertiary">@color/text_dark</item>
+        
+        <!-- Surface Colors -->
+        <item name="colorSurface">@color/card_background</item>
+        <item name="colorOnSurface">@color/text_dark</item>
+        <item name="colorSurfaceVariant">@color/surface_light</item>
+        <item name="colorOnSurfaceVariant">@color/text_medium</item>
+        
+        <!-- Status bar -->
+        <item name="android:statusBarColor">@color/primary_green</item>
+        <item name="android:windowLightStatusBar">false</item>
+        
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
