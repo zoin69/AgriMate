@@ -19,10 +19,6 @@ A beautiful, modern Android application built with Jetpack Compose for farmers t
 - **Design**: Material Design 3
 - **Animations**: Compose Animation APIs
 
-## 📱 Screenshots
-
-*Add screenshots of your app here*
-
 ## 🚀 Getting Started
 
 ### Prerequisites
